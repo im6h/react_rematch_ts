@@ -1,0 +1,21 @@
+{
+  "name": "cra-template-react-rematch-ts",
+  "version": "0.0.1",
+  "main": "template.json",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "rematch"
+  ],
+  "description": "This base Typesciprt for create react app with some custom",
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
